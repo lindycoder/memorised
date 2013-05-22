@@ -12,8 +12,8 @@ except ImportError:
     from setuptools import setup, find_packages
 
 setup(
-        name='memorised',
-        version='1.0.4',
+        name='memorised-iweb',
+        version='1.0.1',
         author='Wes Mason',
         author_email='wes@1stvamp.org',
         description='memcache memoization decorators and utils for python',
